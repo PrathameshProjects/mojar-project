@@ -1,2 +1,2 @@
 # mojar-project
-i am buliding an bldc motor controller 
+i am buliding an bldc motor controller
